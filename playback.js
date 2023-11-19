@@ -1,5 +1,5 @@
 var wrapper = Popcorn.HTMLYouTubeVideoElement("#video");
-wrapper.src = "https://www.youtube.com/watch?v=IdneKLhsWOQ";
+wrapper.src = "https://www.youtube.com/shorts/IETnIoz-jFQ";
 pop = Popcorn(wrapper);
 
 pop.footnote({
