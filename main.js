@@ -1,5 +1,5 @@
-const video1URL = 'videos/video1.mp4';
-const video2URL = 'videos/video2.mp4';
+const video1URL = 'https://drive.google.com/file/d/1kuj0veVT4dEnJHNNBuIHEtso9LYSiu98/view?usp=sharing';
+const video2URL = 'https://drive.google.com/file/d/1kuj0veVT4dEnJHNNBuIHEtso9LYSiu98/view?usp=sharing';
 
 document.addEventListener('DOMContentLoaded', function () {
     const popcorn1 = Popcorn('#video1');
